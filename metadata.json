@@ -1,0 +1,6 @@
+{
+  "name": "Planejamento e Instrução de Contratações Públicas - Lei 14.133",
+  "description": "Plataforma avançada para modelagem, validação e rascunho de DFD, ETP, Matriz de Riscos, TR e Pesquisas de Preços sob a Nova Lei de Licitações nº 14.133/2021.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
